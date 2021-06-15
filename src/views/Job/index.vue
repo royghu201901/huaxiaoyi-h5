@@ -47,11 +47,18 @@
         </v-overlay>
       </v-card>
     </v-container>
+
+    <MyBackToTop2 />
   </div>
 </template>
 
 <script>
+import MyBackToTop2 from '@/components/MyBackToTop2'
+
 export default {
+  components: {
+    MyBackToTop2
+  },
   data: () => ({
     jobs: [
       {
