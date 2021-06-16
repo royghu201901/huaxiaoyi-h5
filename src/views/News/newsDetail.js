@@ -1,5 +1,25 @@
 const newsDetail = [
   {
+    id: 25,
+    title: '花小易五月战报出炉，10000元现金奖励花落谁家？',
+    date: '2021年06月11日',
+    content_01: `
+      <p style="text-align: center;">激动的心，颤抖的手</p>
+      <p style="text-align: center; color: rgb(255, 76, 0);">「花小易星耀计划」</p>
+      <p style="text-align: center; color: rgb(255, 76, 0);">5月奖励名单出炉！</p>
+      <p style="text-align: center;">来看看这次花落谁家</p>
+    `,
+    img_01: require('@/assets/h5-news-img/news-9-02.png'),
+    content_02: `
+      <p style="text-align: center;">每一份努力都值得嘉奖</p>
+      <p style="text-align: center;">再次恭喜以上合伙人朋友</p>
+
+      <p style="text-indent: 2rem;">都说六月骄阳似火，在盛夏来临之际，花小易在此向各位合伙人朋友们道声辛苦了！</p>
+      <p style="text-indent: 2rem;">同时，迎接这火热夏季，花小易也将星耀计划在6-8月进行了重磅升级，<span style="color: rgb(255, 76, 0);">多签约，多奖励，最高5万元奖励等你来战！</span></p>
+    `,
+    img_02: require('@/assets/h5-news-img/news-9-03.png'),
+  },
+  {
     id: 24,
     title: '知名教育机构跑路，消费维权难，花小易破解方法需「打七寸」',
     date: '2021年05月21日',

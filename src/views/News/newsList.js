@@ -1,5 +1,11 @@
 const newsList = [
   {
+    id: 25,
+    img: require('@/assets/h5-news-img/news-9-01.png'),
+    title: '花小易五月战报出炉，10000元现金奖励花落谁家？',
+    date: '2021年06月11日'
+  },
+  {
     id: 24,
     img: require('@/assets/h5-news-img/news-8-01.png'),
     title: '知名教育机构跑路，消费维权难，花小易破解方法需「打七寸」',
