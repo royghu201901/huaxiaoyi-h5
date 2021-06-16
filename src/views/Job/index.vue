@@ -41,7 +41,7 @@
               <p v-text="job.position"></p>
               <p v-text="job.salary"></p>
               <p>简历投递：<a href="mailto:hxy_hr@hmviplus.com">hxy_hr@hmviplus.com</a></p>
-              <p>联系电话：<a href="tel:13958129217">13958129217</a> 金女士</p>
+              <p>联系电话：<a href="tel:15757104366">15757104366</a> 郭小姐</p>
             </v-card-text>
           </v-card>
         </v-overlay>
