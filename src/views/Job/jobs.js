@@ -1,6 +1,6 @@
 const jobs = [
   {
-    img: require('@/assets/h5-job-hangzhou-05.jpg'),
+    img: require('@/assets/h5-job-hangzhou-10.png'),
     title: '大区总监',
     position: '工作地点：杭州',
     overlay: false,
@@ -24,7 +24,7 @@ const jobs = [
     `
   },
   {
-    img: require('@/assets/h5-job-hangzhou-05.jpg'),
+    img: require('@/assets/h5-job-hangzhou-09.png'),
     title: '品牌运营经理',
     position: '工作地点：杭州',
     overlay: false,
@@ -47,7 +47,7 @@ const jobs = [
     `
   },
   {
-    img: require('@/assets/h5-job-hangzhou-05.jpg'),
+    img: require('@/assets/h5-job-hangzhou-08.png'),
     title: '文案策划',
     position: '工作地点：杭州',
     overlay: false,
@@ -68,7 +68,7 @@ const jobs = [
     `
   },
   {
-    img: require('@/assets/h5-job-hangzhou-05.jpg'),
+    img: require('@/assets/h5-job-hangzhou-07.png'),
     title: '商户运营',
     position: '工作地点：杭州',
     overlay: false,
@@ -98,7 +98,7 @@ const jobs = [
     `
   },
   {
-    img: require('@/assets/h5-job-hangzhou-05.jpg'),
+    img: require('@/assets/h5-job-hangzhou-06.png'),
     title: '平面设计师',
     position: '工作地点：杭州',
     overlay: false,
